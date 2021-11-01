@@ -1,4 +1,4 @@
-import os, pygame.gfxdraw, pygame, math, random, time
+import os, pygame.gfxdraw, pygame, math
 pygame.init()
 
 DisplayX, DisplayY = 1920,1080
